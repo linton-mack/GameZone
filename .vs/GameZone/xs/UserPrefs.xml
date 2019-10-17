@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{B1137E34-13C7-4D88-A516-AE4179733C79}|Default">
+  <MonoDevelop.Ide.ItemProperties.tests.GameZone.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GameZone" expanded="True">
+            <Node name="tests" expanded="True">
+              <Node name="GameZone.Tests" expanded="True">
+                <Node name="GameZoneTests.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/linton/Desktop/northcoders/c/GameZone/src/GameZone/bin/Debug/netcoreapp3.0/GameZone
+/Users/linton/Desktop/northcoders/c/GameZone/src/GameZone/bin/Debug/netcoreapp3.0/GameZone.deps.json
+/Users/linton/Desktop/northcoders/c/GameZone/src/GameZone/bin/Debug/netcoreapp3.0/GameZone.runtimeconfig.json
+/Users/linton/Desktop/northcoders/c/GameZone/src/GameZone/bin/Debug/netcoreapp3.0/GameZone.runtimeconfig.dev.json
+/Users/linton/Desktop/northcoders/c/GameZone/src/GameZone/bin/Debug/netcoreapp3.0/GameZone.dll
+/Users/linton/Desktop/northcoders/c/GameZone/src/GameZone/bin/Debug/netcoreapp3.0/GameZone.pdb
+/Users/linton/Desktop/northcoders/c/GameZone/src/GameZone/obj/Debug/netcoreapp3.0/GameZone.csprojAssemblyReference.cache
+/Users/linton/Desktop/northcoders/c/GameZone/src/GameZone/obj/Debug/netcoreapp3.0/GameZone.AssemblyInfoInputs.cache
+/Users/linton/Desktop/northcoders/c/GameZone/src/GameZone/obj/Debug/netcoreapp3.0/GameZone.AssemblyInfo.cs
+/Users/linton/Desktop/northcoders/c/GameZone/src/GameZone/obj/Debug/netcoreapp3.0/GameZone.dll
+/Users/linton/Desktop/northcoders/c/GameZone/src/GameZone/obj/Debug/netcoreapp3.0/GameZone.pdb
